@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Meridian-hack/static/css/main.e6c13ad2.css",
+    "main.js": "/Meridian-hack/static/js/main.f6c297fd.js",
+    "static/js/453.8ab44547.chunk.js": "/Meridian-hack/static/js/453.8ab44547.chunk.js",
+    "static/media/back23.jpg": "/Meridian-hack/static/media/back23.8d0381ecea065d57ba31.jpg",
+    "index.html": "/Meridian-hack/index.html",
+    "main.e6c13ad2.css.map": "/Meridian-hack/static/css/main.e6c13ad2.css.map",
+    "main.f6c297fd.js.map": "/Meridian-hack/static/js/main.f6c297fd.js.map",
+    "453.8ab44547.chunk.js.map": "/Meridian-hack/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f6c297fd.js"
+  ]
+}
